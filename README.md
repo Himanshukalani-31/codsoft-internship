@@ -20,4 +20,3 @@ The following are the five projects completed during the internship:
 * Data Management: Working with Python dictionaries, lists, nested data structures, and string manipulation.
 * Error Handling: Implementing try-except blocks and input sanitization techniques such as .strip(), .isnumeric(), and .lower() to ensure program stability.
 * Python Libraries: Practical use of built-in modules, including random and string.
-*
